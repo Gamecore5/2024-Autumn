@@ -16,6 +16,10 @@
 ## 第二次考核  
 * 了解Git&GitHub的相关知识，学会如何使用它们。补充学习C#初级编程，理解Roll a ball中每一行代码的含义与作用，向你的Roll a ball中添加更多有趣的玩法和内容。
 * [第二次考核文档](https://github.com/Gamecore5/2024-Autumn/blob/main/Second%20Trial/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
-* 时间: 11.16-11.23
+* 时间: 11.16-12.1
 
-  
+## 第三次考核  
+* 自学制作一款3D双人对战的坦克大战游戏，并加入自己的创新，后续考核将进行优化和改进。
+* [第三次考核文档](https://github.com/Gamecore5/2023-Summer/blob/main/Third%20Trial/%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
+* 时间: 12.2-学期末
+
